@@ -1,0 +1,9 @@
+C:\GIT\YMS\YMS\M5Integration\Shared\bin\Debug\netstandard2.1\M5Integration.Shared.deps.json
+C:\GIT\YMS\YMS\M5Integration\Shared\bin\Debug\netstandard2.1\M5Integration.Shared.dll
+C:\GIT\YMS\YMS\M5Integration\Shared\bin\Debug\netstandard2.1\M5Integration.Shared.pdb
+C:\GIT\YMS\YMS\M5Integration\Shared\obj\Debug\netstandard2.1\M5Integration.Shared.csprojAssemblyReference.cache
+C:\GIT\YMS\YMS\M5Integration\Shared\obj\Debug\netstandard2.1\M5Integration.Shared.AssemblyInfoInputs.cache
+C:\GIT\YMS\YMS\M5Integration\Shared\obj\Debug\netstandard2.1\M5Integration.Shared.AssemblyInfo.cs
+C:\GIT\YMS\YMS\M5Integration\Shared\obj\Debug\netstandard2.1\M5Integration.Shared.csproj.CoreCompileInputs.cache
+C:\GIT\YMS\YMS\M5Integration\Shared\obj\Debug\netstandard2.1\M5Integration.Shared.dll
+C:\GIT\YMS\YMS\M5Integration\Shared\obj\Debug\netstandard2.1\M5Integration.Shared.pdb
